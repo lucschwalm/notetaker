@@ -20,5 +20,5 @@ app.get('/notes', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Application succesfully listening to http://localhost:${PORT}`);
+    console.log(`Application succesfully listening to port ${PORT}`);
 });
