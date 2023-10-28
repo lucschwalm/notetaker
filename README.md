@@ -10,5 +10,5 @@ Press the get started button to go to the notes page. Once on the notes page, en
 
 ## Links
 Deployed app: https://notetaker-hd-480dbd9c841e.herokuapp.com/
-
-Github: https://github.com/lucschwalm/notetaker/new/main?readme=1
+/
+Github: https://github.com/lucschwalm/notetaker
